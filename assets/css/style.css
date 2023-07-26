@@ -25,7 +25,7 @@ body {
 
 .home{
   overflow: hidden;
-  background-image: url("https://github.com/MrCoffee-Lan/MrCoffee-Lan.github.io/blob/4e2a658a4189e2dfc790c014a3282d68590ad65c/assets/video_blue.mp4");
+  background-image: url("assets/video_blue.mp4");
   background-attachment:fixed;
   min-height: 140vh;
   width: 85vw;
